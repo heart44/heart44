@@ -45,14 +45,14 @@
 <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white">
  </div>
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heart44&layout=compact&theme=&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WonYoung&theme=buefy&show_icons=true)
 <br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fighting0044)](https://solved.ac/fighting0044)
-<br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A673F3&title_bg=%23868686&icon=postwoman.svg&icon_color=%23EAE9ED&title=hits&edge_flat=false)](https://hits.heart44.com)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A673F3&title_bg=%23868686&icon=postwoman.svg&icon_color=%23EAE9ED&title=hits&edge_flat=false)](https://github.com/heart44)
 
 <!--
 **heart44/heart44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
