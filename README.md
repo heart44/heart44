@@ -56,9 +56,8 @@
 </div>
 <h4 align="center"><b>🥇 BaekJoon solved rank 🏆</b></h4>
 
-<center>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=fighting0044)](https://solved.ac/fighting0044)
-</center>
+
 
 
 
