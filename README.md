@@ -45,14 +45,17 @@
 <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white">
  </div>
-
+<center>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heart44&layout=compact&theme=&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+</center>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WonYoung&theme=buefy&show_icons=true)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fighting0044)](https://solved.ac/fighting0044)
+
+
 <div align="center">
-
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheart44&count_bg=%23BC85F9&title_bg=%23DBDBDB&icon=bitrise.svg&icon_color=%23918F92&title=hits&edge_flat=false"/></a>
-
+</div>
 <!--
 **heart44/heart44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
