@@ -2,6 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=300&section=header&text=Welcome&fontAlignY=40&desc=Young's%20Github%20Profile&fontSize=90&descAlign=60&descSize=25&descAlignY=57&animation=twinkling)
 
+<div align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheart44&count_bg=%23BC85F9&title_bg=%23DBDBDB&icon=bitrise.svg&icon_color=%23918F92&title=hits&edge_flat=false"/></a>
+</div>
+
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <h4 align="center"><b>✍️ Leaning 📚</b></h4>
 <div align="center">
@@ -33,8 +37,6 @@
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-
-
 </div>
 <br>
 <h4 align="center"><b>💻 Tools ⌨️</b></h4>
@@ -47,28 +49,17 @@
  </div>
 
 <div align="center">
+ <h4 align="center"><b>♨ git stats 🌌</b></h4>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heart44&layout=compact&theme=&langs_count=5)">
+ <h4 align="center"><b>🎈 Most used Language 🎃</b></h4>
 <img src="https://github-readme-stats.vercel.app/api?username=WonYoung&theme=buefy&show_icons=true">
 </div>
+<h4 align="center"><b>🥇 BaekJoon solved rank 🏆</b></h4>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fighting0044)](https://solved.ac/fighting0044/)
-
-<div align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheart44&count_bg=%23BC85F9&title_bg=%23DBDBDB&icon=bitrise.svg&icon_color=%23918F92&title=hits&edge_flat=false"/></a>
-</div>
+<center>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=fighting0044)](https://solved.ac/fighting0044)
+</center>
 
 
-<!--
-**heart44/heart44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
