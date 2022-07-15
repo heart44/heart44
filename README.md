@@ -34,7 +34,6 @@
 <h4 align="center"><b>🧜‍♀️ things I've done 🧚‍♀️</b></h4>
 <div align="center">
 <img src="https://img.shields.io/badge/tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </div>
@@ -47,13 +46,13 @@
 <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white">
  </div>
-
+<br>
 <div align="center">
- <h4 align="center"><b>♨ git stats 🌌</b></h4>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heart44&layout=compact&theme=&langs_count=5)">
- <h4 align="center"><b>🎈 Most used Language 🎃</b></h4>
-<img src="https://github-readme-stats.vercel.app/api?username=WonYoung&theme=buefy&show_icons=true">
-</div>
+<h4 align="center"><b>🎈 Most used Language 🎃</b></h4>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heart44&layout=compact&theme=&langs_count=5)"><br>
+  <h4 align="center"><b>♨ git stats 🌌</b></h4>
+<img src="https://github-readme-stats.vercel.app/api?username=WonYoung&theme=buefy&show_icons=true"><br>
+</div><br>
 <h4 align="center"><b>🥇 BaekJoon solved rank 🏆</b></h4>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=fighting0044)](https://solved.ac/fighting0044)
