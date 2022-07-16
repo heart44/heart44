@@ -49,7 +49,7 @@
 <br>
 <div align="center">
 <h4 align="center"><b>🎈 Most used Language 🎃</b></h4>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heart44&layout=compact&theme=&langs_count=5)"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heart44&layout=compact&theme=&langs_count=6)"><br>
   <h4 align="center"><b>♨ git stats 🌌</b></h4>
 <img src="https://github-readme-stats.vercel.app/api?username=WonYoung&theme=buefy&show_icons=true"><br>
 </div><br>
