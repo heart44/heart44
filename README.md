@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white">
 
 <br>
-
+<hr/>
 <h4><b>🎈 Most used Language 🎃</b></h4>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heart44&layout=compact&theme=&langs_count=6)"><br>
   <h4><b>♨ git stats 🌌</b></h4>
