@@ -50,7 +50,7 @@
 <br>
 <hr/>
 <h4><b>🎈 Most used Language 🎃</b></h4>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heart44&layout=compact&theme=&langs_count=6)"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heart44&layout=compact&theme=buefy&langs_count=6)"><br>
   <h4><b>♨ git stats 🌌</b></h4>
 <img src="https://github-readme-stats.vercel.app/api?username=WonYoung&theme=buefy&show_icons=true"><br>
 <br>
